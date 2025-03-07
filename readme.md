@@ -1,8 +1,7 @@
 # Screenshot to PDF
 
-A simple application that takes periodic screenshots and compiles them into a PDF document. This tool consists of a Python backend server and a Chrome extension for easy control.
-# Note
-Incase of an early interrupt before duration, server needs to be stopped too to save the PDF automatically. It adds the functionality of pause/resume as if a new session of snapshots is launched it will append all the snapshots alltogether since the server was launched and saves in one PDF of final output.
+A simple application that takes periodic screenshots and compiles them into a PDF document. This tool consists of a Python backend server and a Chrome extension for easy control.<br>
+NOTE: Incase of an early interrupt before duration, server needs to be stopped too to save the PDF automatically. It adds the functionality of pause/resume as if a new session of snapshots is launched it will append all the snapshots alltogether since the server was launched and saves in one PDF of final output.
 
 ## Features
 
